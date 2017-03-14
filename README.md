@@ -11,4 +11,4 @@ A simple command line application that consumes a Public API using a HTTP client
 
 1. Clone repo
 2. Run `npm install`
-3. run `ginit <repo-name> <longer repo description>` 
+3. run `git init <repo-name> <longer repo description>` 
