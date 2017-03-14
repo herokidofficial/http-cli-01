@@ -1,0 +1,38 @@
+{
+  "name": "http-cli-01",
+  "version": "1.0.0",
+  "description": "A simple command line interface that consumes public api using the HTTP client library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "http-cli-01": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "clui": "^0.3.1",
+    "figlet": "^1.2.0",
+    "github": "^8.2.1",
+    "inquirer": "^3.0.1",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "preferences": "^0.2.1",
+    "simple-git": "^1.65.0",
+    "touch": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herokidofficial/simplecli.git"
+  },
+  "author": "Iraoya Osariemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herokidofficial/simplecli/issues"
+  },
+  "homepage": "https://github.com/herokidofficial/simplecli#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
